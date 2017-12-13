@@ -26,6 +26,3 @@ Step 8: Then scan for *Gold*, bruteforce directories.
 
 Step 9: For one URL process completed then go for other URLs.
 
-
-
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/zmoTAZw.png)](https://www.youtube.com/watch?v=Nwg__mKtx1o)
