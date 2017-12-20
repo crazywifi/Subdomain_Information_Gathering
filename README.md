@@ -27,6 +27,7 @@ Step 8: Then scan for *Gold*, bruteforce directories.
 Step 9: For one URL process completed then go for other URLs.
 
 **Download "Modules" folder from my google drive as size is large.**
+
 Download Link : https://drive.google.com/file/d/1hTbVqCAlbGwu5_6UK2hZI49PTwzer3Wj/view
 
 
